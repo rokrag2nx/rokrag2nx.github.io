@@ -42,7 +42,7 @@ body{
 .container{
     background-color: rgb(230, 230, 230);
     min-height: 100vh;
-    padding: 150px;
+    padding: 128px;
 }
 
 @media screen and (max-width: 768px){
